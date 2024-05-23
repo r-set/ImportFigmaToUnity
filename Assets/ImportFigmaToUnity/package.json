@@ -1,0 +1,17 @@
+{
+  "name": "com.r-set.import_figma_to_unity",
+  "version": "0.1.5",
+  "displayName": "ImportFigmaToUnity",
+  "description": "The ImportFigmaToUnity script is designed to import all frames in a document as separate Canvas files",
+  "keywords": [
+    "figma",
+    "importfigma"
+  ],
+  "author": {
+    "name": "r-set"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
