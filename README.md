@@ -29,7 +29,7 @@ Download the zip or install via PM → Add package from git URL → `https://git
 > [!WARNING]
 > Only image import can be aborted; the structure import process does not stop when canceled.
 > [Newtonsoft Json](https://github.com/applejag/Newtonsoft.Json-for-Unity) and TextMeshPro packages need to be installed.
-1. In Unity, open Window → ImportFigmaToUnity → ImportAllFrames.
+1. In Unity, open Tools → ImportFigmaToUnity → ImportAllFrames.
 <p align="left"><img src="Screenshots/step1_1.png"/></p>
 <p align="left"><img src="Screenshots/step1_2.png"/></p>
 2. In the File key field, enter the key from the document URL.

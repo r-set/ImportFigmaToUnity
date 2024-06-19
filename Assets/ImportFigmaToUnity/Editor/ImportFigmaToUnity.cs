@@ -27,7 +27,7 @@ namespace Figma
         private bool _isProcessing = false;
         private string _processMessage = "";
 
-        [MenuItem("Window/ImportFigmaToUnity/ImportAllFrame")]
+        [MenuItem("Tools/ImportFigmaToUnity/ImportAllFrame")]
         public static void ShowWindow()
         {
             GetWindow<ImportFigmaToUnity>().Show();
